@@ -12,6 +12,8 @@ cynamonowe Grycan - obiektywnie - **najlepsze** lody ~~na świecie~~ we wszechś
 <br>
 > licze na naj :triumph:
 
+![kotek](zadanie-markdown-1/tenor.gif)
+
 
 #### Ranking żywiołów
 1. Wody (bo lody)
@@ -57,3 +59,5 @@ print("Not even sure that this is real")
 
 print("Hello, world")
 ```
+
+

@@ -12,7 +12,7 @@ cynamonowe Grycan - obiektywnie - **najlepsze** lody ~~na świecie~~ we wszechś
 <br>
 > licze na naj :triumph:
 
-![kotek](zadanie-markdown-1/tenor.gif)
+![kotek](tenor.gif)
 
 
 #### Ranking żywiołów

@@ -24,7 +24,6 @@ jobs:
     - name: install pytest
       run: |
         pip install -U pytest
-    - run: python3 -m
     - name: test
       run: |
         pytest zad3_1.py

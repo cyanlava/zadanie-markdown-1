@@ -1,5 +1,7 @@
-def pikachu():
-    for i in range(9999999):
-        print("pika")
+def pikachu(x):
+    for i in range(0, 3):
+        x=x+i
+    return x
 
-pikachu()
+def test(): 
+    assert pikachu(1) == 4
